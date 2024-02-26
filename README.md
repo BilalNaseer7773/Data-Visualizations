@@ -10,7 +10,7 @@ This data  bbb.csv contains information about products sold at the (now bankrupt
 
 <img width="400" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/9ab4b2cb-bd9d-48e9-aecf-41f2c9640691">
 
-<img width="400" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/64c5315a-64eb-4f96-8706-4da591f83cd9">
+<img width="600" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/64c5315a-64eb-4f96-8706-4da591f83cd9">
 
 
 ## Sleep
