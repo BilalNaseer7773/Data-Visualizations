@@ -1,5 +1,14 @@
 # Data-Visualizations
 
+## Temperature
+The visualization below shows the the average global temperature changes over the past 140 years (the Land-Ocean Temperature Index).
+
+### Data
+The temps.csv data set comes from NASA and contains the average global temperature changes over the past 140 years (the Land-Ocean Temperature Index). It contains the average temperature deviation from the 1951-1980 baseline on a month-by-month basis.
+
+<img width="600" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/9a03e3ea-3835-405b-abb0-6599ae8d5d1a">
+
+
 ## Squarify
 Below are the visualizations for the departments in the brand Bed,Bath and Beyond. The visualizations below shows how we can display the departments with different levels of details. 
 
@@ -44,7 +53,7 @@ river-plastics.csv: Provides data on the impact of a country's coastal length, a
 [https://www.reuters.com/graphics/HEALTH-SLEEP/mopakyjmnpa/](url) <br>
 [https://doi.org/10.1016/j.sleh.2014.12.010](url) <br>
 [https://www.cnn.com/2023/04/26/business/bed-bath-beyond-merchandise-dg/index.html](url) <br>
-
+[https://data.giss.nasa.gov/gistemp/](url) <br>
 
 
 
