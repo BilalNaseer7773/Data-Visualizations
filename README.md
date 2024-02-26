@@ -1,4 +1,7 @@
 # Data-Visualizations
+The repository houses a collection of data visualizations generated within Jupyter Notebooks, leveraging a variety of Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. These visualizations are crafted using data sourced from multiple files, each offering unique insights into different aspects of the data. <br>
+
+The primary objective of this repository is to explore and communicate insights derived from various datasets through visually compelling representations. By utilizing Jupyter Notebooks, it provides an interactive and iterative environment for data exploration and visualization creation. <br>
 
 ## Temperature
 The visualization below shows the the average global temperature changes over the past 140 years (the Land-Ocean Temperature Index).
