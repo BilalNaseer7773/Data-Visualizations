@@ -3,6 +3,7 @@ The repository houses a collection of data visualizations generated within Jupyt
 
 The primary objective of this repository is to explore and communicate insights derived from various datasets through visually compelling representations. By utilizing Jupyter Notebooks, it provides an interactive and iterative environment for data exploration and visualization creation. <br>
 
+
 ## Temperature
 The visualization below shows the the average global temperature changes over the past 140 years (the Land-Ocean Temperature Index).
 
