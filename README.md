@@ -14,7 +14,6 @@ The temps.csv data set comes from NASA and contains the average global temperatu
 
 <img width="600" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/9a03e3ea-3835-405b-abb0-6599ae8d5d1a">
 
-
 ## Squarify
 Below are the visualizations for the departments in the brand Bed,Bath and Beyond. The visualizations below shows how we can display the departments with different levels of details. 
 
