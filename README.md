@@ -52,7 +52,6 @@ river-plastics.csv: Provides data on the impact of a country's coastal length, a
 <img width="400" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/f81c7272-3c07-40ad-9ef1-61757171b41a">
 
 
-
 ### Resources
 [https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.colorbar.html](url) <br>
 [https://www.reuters.com/graphics/HEALTH-SLEEP/mopakyjmnpa/](url) <br>
