@@ -63,6 +63,14 @@ The interactive visualization below shows the height and weight distributions fo
 The dropdown menu filters the athletes to a specific sport category. The options are Swimming, Wrestling, Fencing, Athletics, Shooting, Cycling, Rowing, and Gymnastics, plus a “Combined” option that is the combination of athletes from all of those sports. The “kde” checkbox will change the visualization to a contour plot of the distribution estimated using kernel density estimation, as shown below.<br>
 <img width="427" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/68a93c74-8f0d-42ee-8298-a0e55651bc38"><br>
 
+## The Solar Eclipse <br>
+In St. John’s, we will experience 99.2% totality (i.e., not completely a total eclipse). The peak of the eclipse in St. John’s will be at approximately 5:15pm. At no time will be it safe to view the sun without proper eyeware (ISO certified solar eclipse viewing glasses). It is only ever safe to
+view an eclipse with the naked eye during the 2–3 minute window where the Sun is 100% blocked by the Moon (this will not happen in St. John’s).
+Solar eclipses are rare, wonderful events. If you can travel outside of St. John’s to see totality, then it is highly recommended. There are astronomy and eclipse events running in Gander throughout
+the weekend leading up to the solar eclipse (April 5-7).
+
+<img width="708" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/2ffcc392-fec0-4b9c-8b57-e857d98a0794"><br>
+<img width="675" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/04f19419-8636-41e2-90d1-daf6cb7c30bb"><br>
 
 
 ### Resources
