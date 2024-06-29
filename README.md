@@ -51,7 +51,8 @@ river-plastics.csv: Provides data on the impact of a country's coastal length, a
 
 <img width="400" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/f81c7272-3c07-40ad-9ef1-61757171b41a">
 
-## Birth Data Visualization
+## Birth Data Visualization<br>
+The visualization below shows the babies born per minute in the USA in the year 2022.<br>
 <img width="685" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/95574c2a-f5da-43c2-b2e5-e5290898d75e">
 
 
