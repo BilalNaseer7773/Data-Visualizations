@@ -55,6 +55,15 @@ river-plastics.csv: Provides data on the impact of a country's coastal length, a
 The visualization below shows the babies born per minute in the USA in the year 2022.<br>
 <img width="685" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/95574c2a-f5da-43c2-b2e5-e5290898d75e">
 
+## IPY widgets <br>
+The following heatmap shows the average carat weight of diamonds relative to their clarity and colour. An interactive dropdown menu allows for the data to be filtered around the origin of the diamonds. The “Natural” option filters to only naturally occurring diamonds, “Lab” filters to manufactured diamonds, and “All’ applies no filtering. In the example below, we can see that the heaviest diamonds are those with the poorest quality. <br>
+<img width="465" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/cc835a5f-32a3-4b43-adf1-2e387f36735f"><br>
+
+The interactive visualization below shows the height and weight distributions for gold-medal winning athletes in the 2000 to 2016 Olympics (inclusive). The default view is a heat map where the data has been binned in value increments of 5, that is, 20 to 25, 25 to 30, 30 to 35, etc. (Hint: Seaborn’s heatmap is the hard way to do this. What else can bin data?)
+The dropdown menu filters the athletes to a specific sport category. The options are Swimming, Wrestling, Fencing, Athletics, Shooting, Cycling, Rowing, and Gymnastics, plus a “Combined” option that is the combination of athletes from all of those sports. The “kde” checkbox will change the visualization to a contour plot of the distribution estimated using kernel density estimation, as shown below.<br>
+<img width="427" alt="image" src="https://github.com/BilalNaseer7773/Data-Visualizations/assets/90666694/68a93c74-8f0d-42ee-8298-a0e55651bc38"><br>
+
+
 
 ### Resources
 [https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.colorbar.html](url) <br>
